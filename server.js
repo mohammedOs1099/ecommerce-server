@@ -86,7 +86,7 @@ const router = jsonServer.router({
       max: 4
     },
     {
-      id: 5,
+      id: 6,
       title: "Sweatshirt shorts",
       price: "300.00",
       cat_prefix: "women",
@@ -95,7 +95,7 @@ const router = jsonServer.router({
       max: 4
     },
     {
-      id: 5,
+      id: 7,
       title: "Sweatshirt shorts",
       price: "300.00",
       cat_prefix: "women",
@@ -104,7 +104,7 @@ const router = jsonServer.router({
       max: 4
     },
     {
-      id: 5,
+      id: 8,
       title: "Sweatshirt shorts",
       price: "300.00",
       cat_prefix: "women",
@@ -113,7 +113,7 @@ const router = jsonServer.router({
       max: 4
     },
     {
-      id: 6,
+      id: 9,
       title: "Velour top",
       price: "300.00",
       cat_prefix: "kids",
@@ -122,7 +122,7 @@ const router = jsonServer.router({
       max: 4
     },
     {
-      id: 9,
+      id: 10,
       title: "Pile all-in-one suit with ears",
       price: "500.00",
       cat_prefix: "baby",
@@ -131,7 +131,7 @@ const router = jsonServer.router({
       max: 4
     },
     {
-      id: 17,
+      id: 11,
       title: "Regular Fit football shirt",
       price: "449.00",
       cat_prefix: "sport",
