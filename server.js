@@ -46,7 +46,8 @@ const router = jsonServer.router({
       price: "249.00",
       cat_prefix: "men",
       img:
-        "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg"
+        "https://media.alshaya.com/adobe/assets/urn:aaid:aem:74c70cba-6381-45d7-8a25-8dd26089ce2c/as/EID-d76db18a41d57881e51082b9619944b724eef382.jpg?preferwebp=true&height=630",
+      max: 4
     },
     {
       id: 2,
@@ -54,7 +55,8 @@ const router = jsonServer.router({
       price: "229.00",
       cat_prefix: "men",
       img:
-        "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg"
+        "https://media.alshaya.com/adobe/assets/urn:aaid:aem:48ca8e49-a124-4fe8-8d86-20458175ed76/as/EID-c41174584eade7cad86b6e182a8a77f513fc17ed.jpg?preferwebp=true&height=630",
+      max: 4
     },
     {
       id: 3,
@@ -62,7 +64,8 @@ const router = jsonServer.router({
       price: "200.00",
       cat_prefix: "men",
       img:
-        "https://eg.hm.com/assets/styles/HNM/13994073/eeb1d90c4764366000eb8b8571396e81f0de5c44/2/image-thumb__3142108__product_listing/4d6db9e8f936d3d82b13bc5861b0310fa214c74d.jpg"
+        "https://media.alshaya.com/adobe/assets/urn:aaid:aem:998d0c1a-57b7-4bc0-9c72-8061690b052e/as/EID-e0687684b2fc6b1781078e140f3a583877cadb91.jpg?preferwebp=true&height=630",
+      max: 4
     },
     {
       id: 4,
@@ -70,7 +73,8 @@ const router = jsonServer.router({
       price: "100.00",
       cat_prefix: "women",
       img:
-        "https://eg.hm.com/assets/styles/HNM/13650519/6cc34f51caee1d6cfe776b933d667075fa30d90d/2/image-thumb__2888777__product_listing/16c27492b022ac2eef03853f85d5b279a29ebeed.jpg"
+        "https://media.alshaya.com/adobe/assets/urn:aaid:aem:9e3bc1f2-ac0c-4e79-8f26-6f00d38259ad/as/EID-49b5a6dc5e9845743fe68bc39d42343edd164995.jpg?preferwebp=true&height=630",
+      max: 4
     },
     {
       id: 5,
@@ -78,7 +82,35 @@ const router = jsonServer.router({
       price: "300.00",
       cat_prefix: "women",
       img:
-        "https://eg.hm.com/assets/styles/HNM/12652575/3e316aab8ce1b596545d144d0efd362975b3856f/2/image-thumb__1998684__product_listing/48756e509aa05341e4a618ba4c1b0a5ce24ebcae.jpg"
+        "https://media.alshaya.com/adobe/assets/urn:aaid:aem:eae16a81-f65d-4322-8c7a-553e5d37d354/as/EID-65166943e5783c140b74cc4ee59be062eb38ecee.jpg?preferwebp=true&height=630",
+      max: 4
+    },
+    {
+      id: 5,
+      title: "Sweatshirt shorts",
+      price: "300.00",
+      cat_prefix: "women",
+      img:
+        "https://media.alshaya.com/adobe/assets/urn:aaid:aem:a3c5ed8d-ffae-4253-9f12-fcdac3fdffa2/as/EID-a0a1127e4cf36473875d4b1574a9aa0c9f1554a0.jpg?preferwebp=true&height=630",
+      max: 4
+    },
+    {
+      id: 5,
+      title: "Sweatshirt shorts",
+      price: "300.00",
+      cat_prefix: "women",
+      img:
+        "https://media.alshaya.com/adobe/assets/urn:aaid:aem:206e6733-4186-431d-ac9c-a0a76712aed3/as/EID-0c2efc7db95f8c53c4e9f8da183a8ac68ef9c7e1.jpg?preferwebp=true&height=630",
+      max: 4
+    },
+    {
+      id: 5,
+      title: "Sweatshirt shorts",
+      price: "300.00",
+      cat_prefix: "women",
+      img:
+        "https://media.alshaya.com/adobe/assets/urn:aaid:aem:eae16a81-f65d-4322-8c7a-553e5d37d354/as/EID-65166943e5783c140b74cc4ee59be062eb38ecee.jpg?preferwebp=true&height=630",
+      max: 4
     },
     {
       id: 6,
@@ -86,7 +118,8 @@ const router = jsonServer.router({
       price: "300.00",
       cat_prefix: "kids",
       img:
-        "https://eg.hm.com/assets/styles/HNM/14478215/543d925539f4a3b92a79df2dfe46d5d481e1c7ae/2/image-thumb__3463278__product_listing/c1417d02c7a93e6d2aca7965003b4f7d490f0ae8.jpg"
+        "https://media.alshaya.com/adobe/assets/urn:aaid:aem:6d6a84c9-845b-4def-9a32-d295d5eb4cb5/as/EID-743c47697b94cc86a3245008b646e70b1e7f31d4.jpg?preferwebp=true&height=630",
+      max: 4
     },
     {
       id: 9,
@@ -94,7 +127,8 @@ const router = jsonServer.router({
       price: "500.00",
       cat_prefix: "baby",
       img:
-        "https://eg.hm.com/assets/styles/HNM/10803913/c334b471ad8f564ed1b5dd410c95d94544ee0904/2/image-thumb__1594613__product_listing/5941e37dccc9b0172ac2ab7c266c1cd794cb547f.jpg"
+        "https://media.alshaya.com/adobe/assets/urn:aaid:aem:8ae77954-1d88-4cdb-a526-c5db34815b16/as/EID-55be393355f719954affd35e34664b96bf5babd0.jpg?preferwebp=true&height=630",
+      max: 4
     },
     {
       id: 17,
@@ -102,7 +136,8 @@ const router = jsonServer.router({
       price: "449.00",
       cat_prefix: "sport",
       img:
-        "https://eg.hm.com/assets/styles/HNM/14472541/cb9d35f1480ce5c8b0be39ad7fd35ab9f8004ce0/2/image-thumb__3453052__product_listing/70408034bd9792a93abbc8ad322565337f535e24.jpg"
+        "https://media.alshaya.com/adobe/assets/urn:aaid:aem:76f062dc-df39-4358-90af-cd11ea864956/as/EID-084b938a16caa16ed7e6daed3e260e5c51280bff.jpg?preferwebp=true&height=630",
+      max: 4
     }
   ]
 }); // قاعدة بيانات في الذاكرة
