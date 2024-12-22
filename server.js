@@ -15,7 +15,7 @@ const router = jsonServer.router({
       title: "women",
       prefix: "women",
       img:
-        "https://cdn-eu.dynamicyield.com/api/9876644/images/30d354267a09b__hp-w12-22032022-h_m-women_dresses.jpg"
+        "https://cdn-eu.dynamicyield.com/api/9876644/images/244c68ad42d8b__hp-w12-22032022-h_m-women_shirts-blouses.jpg"
     },
     {
       id: 3,
