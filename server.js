@@ -139,7 +139,8 @@ const router = jsonServer.router({
         "https://media.alshaya.com/adobe/assets/urn:aaid:aem:76f062dc-df39-4358-90af-cd11ea864956/as/EID-084b938a16caa16ed7e6daed3e260e5c51280bff.jpg?preferwebp=true&height=630",
       max: 4
     }
-  ]
+  ],
+  wishList:[]
 }); // قاعدة بيانات في الذاكرة
 const middlewares = jsonServer.defaults();
 
